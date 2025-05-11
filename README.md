@@ -14,7 +14,7 @@ Each project demonstrates different skills in data handling, from basic descript
 - **Features**:
   - Pivot tables
   - Data filtering, cleaning, and Conditional Formatting
-  - Visual dashboards
+  - Data visualization
 - 📂 [`/Sales Analysis`](https://github.com/AthayaRahma00/My-portfolio/tree/main/Sales%20Analysis)
 
 ---
