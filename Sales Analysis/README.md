@@ -22,6 +22,10 @@ Analyze sales data by product, region, shipping, and customer segment using Exce
 - The **West Region** recorded the highest total number of orders, whereas the **Northwest Region** contributed the most in terms of overall profit.
 - **Consumers** and **Company** purchase **Binders** and **Binder Accessories** the most, while the **Home Office** segment shows a strong preference for **Paper**, and **Small Business** tend to order **Storage & Organization** products more frequently.
 
+## 📊 Preview
+Below is a preview of the dashboard created using Excel:
+![Sales Dashboard Preview](./preview.png)
+
 ## 📂 Data Source
 The data used for this analysis was sourced from the publicly available **SALES STORE PRODUCT DETAILS** from Kaggle, which is commonly used for data analysis practice. It includes sales information from a fictional store, encompassing product categories, customer segments, and regional sales data.
 
