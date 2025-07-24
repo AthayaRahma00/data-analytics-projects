@@ -25,6 +25,7 @@ Analyze sales data by product, region, shipping, and customer segment using Exce
 ## 📊 Preview
 Below is a preview of the dashboard created using Excel:
 ![Sales Dashboard Preview](./preview.png)
+> More visualizations available in the `Sales Analysis` folder.
 
 ## 📂 Data Source
 The data used for this analysis was sourced from the publicly available **SALES STORE PRODUCT DETAILS** from Kaggle, which is commonly used for data analysis practice. It includes sales information from a fictional store, encompassing product categories, customer segments, and regional sales data.
