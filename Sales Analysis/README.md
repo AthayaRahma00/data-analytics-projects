@@ -24,7 +24,7 @@ Analyze sales data by product, region, shipping, and customer segment using Exce
 
 ## 📊 Preview
 Below is a preview of the dashboard created using Excel:
-![Sales Dashboard Preview](./preview.png)
+![Sales Dashboard Preview](./Preview-Excel.png)
 > More visualizations available in the `Sales Analysis` folder.
 
 ## 📂 Data Source
