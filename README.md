@@ -23,7 +23,7 @@ Each project demonstrates different skills in data handling, from basic descript
 - **Description**: *(Brief description of the second analysis project. For example, customer segmentation, employee attendance trends, etc.)*
 - **Tools Used**: *(e.g., Power BI, SQL, Excel)*
 - **Features**: *(Key points of what was done in the project)*
-- 📂 [`/Your Folder Name`](./Your%20Folder%20Name)
+- [`/Your Folder Name`](./Your%20Folder%20Name)
 
 ---
 
