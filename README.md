@@ -6,7 +6,7 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ---
 
-## 📁 Project List
+## Project List
 
 ### 1. **Sales Data Analysis (Excel)**
 - **Description**: Analyze sales data by product, region, shipping, and customer segment. 
@@ -15,7 +15,7 @@ Each project demonstrates different skills in data handling, from basic descript
   - Pivot tables
   - Data filtering, cleaning, and Conditional Formatting
   - Data visualization
-- 📂 [`/Sales Analysis`](https://github.com/AthayaRahma00/My-portfolio/tree/main/Sales%20Analysis)
+- [`/Sales Analysis`](https://github.com/AthayaRahma00/My-portfolio/tree/main/Sales%20Analysis)
 
 ---
 
@@ -27,7 +27,7 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ---
 
-## 🧰 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 - Excel (pivot tables, charts, dashboards)
 - Power BI (interactive reports, DAX)
 - SQL (data querying, filtering, joins)
@@ -36,11 +36,11 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ---
 
-## 📌 Notes
+## Notes
 - Each project folder contains the main file(s), a brief description, and relevant screenshots or images (if needed).
 - You can preview the dashboards through the included screenshots or download the files to explore them.
 
 ---
 
-## 📬 Contact
+## Contact
 If you'd like to connect, collaborate, or ask about any project, feel free to reach out via [LinkedIn](https://linkedin.com/in/athaya-rahma-puteri) or email me at athaya.rahma00@gmail.com 
