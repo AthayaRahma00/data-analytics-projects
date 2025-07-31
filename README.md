@@ -30,7 +30,7 @@ Each project demonstrates different skills in data handling, from basic descript
 ## Tools & Skills Demonstrated
 - Excel (pivot tables, charts, dashboards)
 - SQL (data querying, filtering, joins)
-- Power BI (interactive reports, DAX)
+- Power BI
 - Data visualization 
 - Data cleaning and transformation
 
