@@ -19,11 +19,15 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ---
 
-### 2. **[Your Second Project Title]**
-- **Description**: *(Brief description of the second analysis project. For example, customer segmentation, employee attendance trends, etc.)*
-- **Tools Used**: *(e.g., Power BI, SQL, Excel)*
-- **Features**: *(Key points of what was done in the project)*
-- [`/Your Folder Name`](./Your%20Folder%20Name)
+### 2. **Pizza Sales Analysis (SQL)**
+- **Description**: Performed data exploration on pizza sales using MySQL to extract KPIs, analyze sales trends, and evaluate product performance. 
+- **Tools Used**: MySQL*
+- **Features**:
+  - KPI calculation (Total Revenue, Average Order Value, Total Orders, Total     Pizzas SOld, average Pizzas per Order)  
+  - Daily and Monthly order trends  
+  - Sales breakdown by size and category  
+  - Top & bottom 5 pizzas by revenue, quantity, and orders  
+- [`/Pizza Sales`](./Pizza%20Sales)
 
 ---
 
@@ -31,8 +35,6 @@ Each project demonstrates different skills in data handling, from basic descript
 - Excel (pivot tables, charts, dashboards)
 - SQL (data querying, filtering, joins)
 - Power BI
-- Data visualization 
-- Data cleaning and transformation
 
 ---
 
