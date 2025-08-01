@@ -23,7 +23,7 @@ Each project demonstrates different skills in data handling, from basic descript
 - **Description**: Performed data exploration on pizza sales using MySQL to extract KPIs, analyze sales trends, and evaluate product performance. 
 - **Tools Used**: MySQL*
 - **Features**:
-  - KPI calculation (Total Revenue, Average Order Value, Total Orders, Total     Pizzas SOld, average Pizzas per Order)  
+  - KPI calculation (Total Revenue, Average Order Value, Total Orders, Total Pizzas Sold, average Pizzas per Order)  
   - Daily and Monthly order trends  
   - Sales breakdown by size and category  
   - Top & bottom 5 pizzas by revenue, quantity, and orders  
