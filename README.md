@@ -8,9 +8,9 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ## Project List
 
-### 1. **Sales Data Analysis (Excel)**
-- **Description**: Analyze sales data by product, region, shipping, and customer segment. 
+### 1. **Sales Data Analysis (Excel)** 
 - **Tools Used**: Microsoft Excel
+- **What I Did**: Analyzed sales data by product, region, shipping, and    customer segment.
 - **Features**:
   - Pivot tables
   - Data filtering, cleaning, and Conditional Formatting
@@ -20,13 +20,13 @@ Each project demonstrates different skills in data handling, from basic descript
 ---
 
 ### 2. **Pizza Sales Analysis (SQL)**
-- **Description**: Performed data exploration on pizza sales using MySQL to extract KPIs, analyze sales trends, and evaluate product performance. 
-- **Tools Used**: MySQL*
+- **Tools Used**: MySQL
+- **What I Did**: Performed data exploration on pizza sales to extract KPIs, analyze sales trends, and evaluate product performance. 
 - **Features**:
-  - KPI calculation (Total Revenue, Average Order Value, Total Orders, Total Pizzas Sold, average Pizzas per Order)  
+  - KPI calculation (Total Revenue, Avg. Order Value, Total Orders, Total Pizzas Sold, Avg. Pizzas per Order)  
   - Daily and Monthly order trends  
   - Sales breakdown by size and category  
-  - Top & bottom 5 pizzas by revenue, quantity, and orders  
+  - Top & bottom 5 pizzas by revenue, quantity, and number of orders  
 - [`/Pizza Sales`](./Pizza%20Sales)
 
 ---
