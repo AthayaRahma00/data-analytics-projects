@@ -3,9 +3,6 @@
 ## Created by
 Athaya Rahma Puteri
 
-## Date
-May 2025
-
 ## Objective
 Analyze sales data by product, region, shipping, and customer segment using Excel.
 
