@@ -1,0 +1,5 @@
+pizza_category,sum(quantity)
+Classic,14888
+Veggie,11649
+Supreme,11987
+Chicken,11050
