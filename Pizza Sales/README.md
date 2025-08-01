@@ -33,12 +33,8 @@ YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ
 - **Top 5 Pizzas by Total Orders**
 - **Bottom 5 Pizzas by Total Orders**
 
-## Sample Query Using WHERE Clause
+## LinkedIn
+[LinkedIn Profile](http://www.linkedin.com/in/athaya-rahma-puteri)
 
-```sql
-SELECT pizza_name, COUNT(DISTINCT order_id) AS Total_Orders
-FROM pizza_sales15
-WHERE pizza_category = 'Classic'
-GROUP BY pizza_name
-ORDER BY Total_Orders DESC
-LIMIT 5;
+## Email
+athaya.rahma00@gmail.com
