@@ -33,8 +33,6 @@ YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ
 - **Top 5 Pizzas by Total Orders**
 - **Bottom 5 Pizzas by Total Orders**
 
-## LinkedIn
-[LinkedIn Profile](http://www.linkedin.com/in/athaya-rahma-puteri)
-
-## Email
-athaya.rahma00@gmail.com
+## Contact Me
+- 📎 [LinkedIn](https://www.linkedin.com/in/athaya-rahma-puteri)
+- 📧 Email: athaya.rahma00@gmail.com
