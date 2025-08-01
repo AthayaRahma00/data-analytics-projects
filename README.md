@@ -32,9 +32,10 @@ Each project demonstrates different skills in data handling, from basic descript
 ---
 
 ## Tools & Skills Demonstrated
-- Excel (pivot tables, charts, dashboards)
-- SQL (data querying, filtering, joins)
-- Power BI
+- **Excel**: Pivot tables, conditional formatting, dashboards
+- **SQL (MySQL)**: SELECT, WHERE, GROUP BY, ORDER BY, LIMIT, aggregation 
+- **Power BI**: Bar & line charts, slicers, basic report layout
+
 
 ---
 
