@@ -1,4 +1,4 @@
-# Sales Data Analysis Portfolio
+# Sales Data Analysis
 
 ## Created by
 Athaya Rahma Puteri
