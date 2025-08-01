@@ -1,8 +1,5 @@
 # Sales Data Analysis
 
-## Created by
-Athaya Rahma Puteri
-
 ## Objective
 Analyze sales data by product, region, shipping, and customer segment using Excel.
 
@@ -27,8 +24,6 @@ Below is a preview of the dashboard created using Excel:
 ## Data Source
 The data used for this analysis was sourced from the publicly available **SALES STORE PRODUCT DETAILS** from Kaggle, which is commonly used for data analysis practice. It includes sales information from a fictional store, encompassing product categories, customer segments, and regional sales data.
 
-## LinkedIn
-[LinkedIn Profile](http://www.linkedin.com/in/athaya-rahma-puteri)
-
-## Email
-athaya.rahma00@gmail.com
+## Contact Me
+- 📎 [LinkedIn](https://www.linkedin.com/in/athaya-rahma-puteri)
+- 📧 Email: athaya.rahma00@gmail.com
