@@ -33,10 +33,12 @@ YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ
 - **Top 5 Pizzas by Total Orders**
 - **Bottom 5 Pizzas by Total Orders**
 
-  ## Power BI Dashboard
+## Power BI Dashboard
   The dashboard visualize KPIs, trends, and performance metrics of pizza sales using interactive visuals in Power BI.
 
-  ## Dashboard Preview
+## Dashboard Preview
+![Sales Dashboard Preview](./Preview Dashboard.jpg)
+> More visualizations available in the `Dashboard.pbix` file.
 
 ## Contact Me
 - 📎 [LinkedIn](https://www.linkedin.com/in/athaya-rahma-puteri)
