@@ -1,6 +1,6 @@
-# Pizza Sales SQL Analysis
+# Pizza Sales SQL Analysis (MySQL & Power BI)
 
-This project contains a collection of SQL queries to analyze pizza sales data using MySQL.
+This project includes SQL queries and a Power BI dashboard to analyze pizza sales data
 
 **Data Source:**  
 YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ0YcF)
@@ -32,6 +32,11 @@ YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ
 - **Bottom 5 Pizzas by Quantity**
 - **Top 5 Pizzas by Total Orders**
 - **Bottom 5 Pizzas by Total Orders**
+
+  ## Power BI Dashboard
+  The dashboard visualize KPIs, trends, and performance metrics of pizza sales using interactive visuals in Power BI.
+
+  ## Dashboard Preview
 
 ## Contact Me
 - 📎 [LinkedIn](https://www.linkedin.com/in/athaya-rahma-puteri)
