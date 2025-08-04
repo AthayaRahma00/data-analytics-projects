@@ -38,7 +38,7 @@ YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ
 
 ## Preview
 Below is a preview of the dashboard created using Power BI:
-![Dashboard Preview](./reports/Preview Dashboard.jpg)
+![Dashboard Preview](./reports/Preview%20Dashboard.jpg)
 > More visualizations available in the `Dashboard.pbix` file.
 
 ## Contact Me
