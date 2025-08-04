@@ -19,14 +19,15 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ---
 
-### 2. **Pizza Sales Analysis (SQL)**
-- **Tools Used**: MySQL
+### 2. **Pizza Sales Analysis (MySQL & Power BI)**
+- **Tools Used**: MySQL and Power BI.
 - **What I Did**: Performed data exploration on pizza sales to extract KPIs, analyze sales trends, and evaluate product performance. 
 - **Features**:
   - KPI calculation (Total Revenue, Avg. Order Value, Total Orders, Total Pizzas Sold, Avg. Pizzas per Order)  
   - Daily and Monthly order trends  
   - Sales breakdown by size and category  
-  - Top & bottom 5 pizzas by revenue, quantity, and number of orders  
+  - Top & bottom 5 pizzas by revenue, quantity, and number of orders
+- Power BI Dashboard: Build interactive dashboard to visualize KPIs, time-based trends, and best/worst-selling products.
 - [`/Pizza Sales`](./Pizza%20Sales)
 
 ---
