@@ -37,8 +37,8 @@ YouTube Channel – [Data Tutorial](https://youtu.be/V-s8c6jMRN0?si=YqvhnHFWELyJ
   The dashboard visualize KPIs, trends, and performance metrics of pizza sales using interactive visuals in Power BI.
 
 ## Preview
-Below is a preview of the dashboard created using Excel:
-![Dashboard Preview](./Preview Dashboard.jpg)
+Below is a preview of the dashboard created using Power BI:
+![Dashboard Preview](./reports/Preview Dashboard.jpg)
 > More visualizations available in the `Dashboard.pbix` file.
 
 ## Contact Me
