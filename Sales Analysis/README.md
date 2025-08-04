@@ -17,8 +17,8 @@ Analyze sales data by product, region, shipping, and customer segment using Exce
 - **Consumers** and **Company** purchase **Binders** and **Binder Accessories** the most, while the **Home Office** segment shows a strong preference for **Paper**, and **Small Business** tend to order **Storage & Organization** products more frequently.
 
 ## Preview
-Below is a preview of the dashboard created using Power BI:
-![Sales Dashboard Preview](./reports/Preview-Excel.png)
+Below is a preview of the dashboard created using Excel:
+![Sales Dashboard Preview](./Preview-Excel.png)
 > More visualizations available in the `Sales Analysis` folder.
 
 ## Data Source
