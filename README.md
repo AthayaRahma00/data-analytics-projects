@@ -10,7 +10,7 @@ Each project demonstrates different skills in data handling, from basic descript
 
 ### 1. **Sales Data Analysis (Excel)** 
 - **Tools Used**: Microsoft Excel
-- **What I Did**: Analyzed sales data by product, region, shipping, and    customer segment.
+- **What I Did**: Analyzed sales data by product, region, shipping, and  customer segment.
 - **Features**:
   - Pivot tables
   - Data filtering, cleaning, and Conditional Formatting
@@ -30,10 +30,20 @@ Each project demonstrates different skills in data handling, from basic descript
 - Power BI Dashboard: Build interactive dashboard to visualize KPIs, time-based trends, and best/worst-selling products.
 - [`/Pizza Sales`](./Pizza%20Sales)
 
+  ### 2. ** Coffee Sales Dashboard (Excel)**
+- **Tools Used**: Excel.
+- **What I Did**: Built an interactive sales dashboard to analyze coffee sales by roast type, package size, loyalty card usage, and time period.
+- **Features**:
+  - Total sales over time by coffee type 
+  - Sales breakdown by country  
+  - Top 5 customers by total purchase  
+  - Interactive filters using slicers and timelines
+- [`/Coffee Sales`](./Coffee_Sales)
+
 ---
 
 ## Tools & Skills Demonstrated
-- **Excel**: Pivot tables, conditional formatting, dashboards
+- **Excel**: Pivot tables, conditional formatting, dashboards, XLOOKUP, Index-Match, Multiple IF
 - **SQL (MySQL)**: SELECT, WHERE, GROUP BY, ORDER BY, LIMIT, aggregation 
 - **Power BI**: Bar & line charts, slicers, basic report layout
 
