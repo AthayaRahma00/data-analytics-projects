@@ -1,24 +1,24 @@
 # Coffee Sales Dashboard (Excel)
-## Project Description
-This project is an interactive Coffee Sales Dashboard built in Microsoft Excel to analyze sales performance over time.
-The dashboard allows users to filter and explore sales data by roast type, package size, loyalty card usage, and time period.
 
-## Skills & Functions Used
-- XLOOKUP – for advanced lookup operations
-- INDEX-MATCH – for flexible data retrieval
-- Multiple IF Functions – for complex conditional logic
-- Pivot Tables – to aggregate and summarize data
-- Timeline – for interactive date-based filtering
-- Slicers – for category-based filtering
-- Dashboard Design – combining charts, tables, and filters for interactivity
+## Project Description  
+Built an interactive sales dashboard in Excel to analyze coffee sales data with filters for roast type, package size, loyalty card usage, and date.
 
-## Dashboard Features
-- Total Sales Over Time – Line chart showing monthly sales trends for each coffee type (Arabica, Excelsa, Liberica, Robusta)
-- Sales by Country – Horizontal bar chart comparing sales across United States, Ireland, and United Kingdom
-- Top 5 Customers – Ranking of customers by total purchase amount
-- Filter Controls – Roast Type, Size, Loyalty Card, and Date Timeline for customized data exploration
+## Skills & Functions Used  
+- XLOOKUP  
+- INDEX-MATCH  
+- Multiple IF Functions  
+- Pivot Tables  
+- Slicers  
+- Timeline
 
-## Screenshot
+## Dashboard Features  
+- Total sales over time by coffee type  
+- Sales breakdown by country  
+- Top 5 customers  
+- Interactive filtering  
 
-## Tools Used
-Microsoft Excel
+## Preview  
+![Coffee Sales Dashboard](coffee-dashboard.png)
+
+## 📂 Data Source  
+Dataset from [YouTube tutorial by Mo Chen]([link](https://youtu.be/m13o5aqeCbM?si=2-QirbWe_qAoKrdp))  
