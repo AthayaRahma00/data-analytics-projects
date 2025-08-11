@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics Projects
 
 Welcome to my data analytics portfolio repository. This repository showcases several projects where I explore, clean, analyze, and visualize datasets using various tools such as **Microsoft Excel**, **Power BI**, and **SQL**.
 
