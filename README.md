@@ -31,7 +31,7 @@ Each project demonstrates different skills in data handling, from basic descript
 - Power BI Dashboard: Build interactive dashboard to visualize KPIs, time-based trends, and best/worst-selling products.
 - [View Project](./Pizza%20Sales)
 
-### 3. ** Coffee Sales Dashboard (Excel)**
+### 3. **Coffee Sales Dashboard (Excel)**
 - **Tools Used**: Excel.
 - **What I Did**: Built an interactive sales dashboard to analyze coffee sales by roast type, package size, loyalty card usage, and time period.
 - **Features**:
