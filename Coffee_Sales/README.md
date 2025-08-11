@@ -18,7 +18,7 @@ Built an interactive sales dashboard in Excel to analyze coffee sales data with 
 - Interactive filtering  
 
 ## Preview  
-![Coffee Sales Dashboard](coffee-dashboard.png)
+![Coffee Sales Dashboard](preview-coffee_sales.png)
 
 ## Data Source  
 YouTube Channel – [Mo Chen](https://youtu.be/m13o5aqeCbM?si=2-QirbWe_qAoKrdp)
