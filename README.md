@@ -12,10 +12,11 @@ Each project demonstrates different skills in data handling, from basic descript
 - **Tools Used**: Microsoft Excel
 - **What I Did**: Analyzed sales data by product, region, shipping, and  customer segment.
 - **Features**:
-  - Pivot tables
-  - Data filtering, cleaning, and Conditional Formatting
-  - Data visualization
-- [`/Sales Analysis`](https://github.com/AthayaRahma00/My-portfolio/tree/main/Sales%20Analysis)
+  - Pivot tables to summarize large datasets
+  - Data filtering and cleaning for accurate analysis
+  - Conditional formatting to highlight key values
+  - Visualizations for sales by product, region, shipping method, and   customer segment
+- [View Project](https://github.com/AthayaRahma00/My-portfolio/tree/main/Sales%20Analysis)
 
 ---
 
@@ -28,17 +29,19 @@ Each project demonstrates different skills in data handling, from basic descript
   - Sales breakdown by size and category  
   - Top & bottom 5 pizzas by revenue, quantity, and number of orders
 - Power BI Dashboard: Build interactive dashboard to visualize KPIs, time-based trends, and best/worst-selling products.
-- [`/Pizza Sales`](./Pizza%20Sales)
+- [View Project](./Pizza%20Sales)
 
   ### 2. ** Coffee Sales Dashboard (Excel)**
 - **Tools Used**: Excel.
 - **What I Did**: Built an interactive sales dashboard to analyze coffee sales by roast type, package size, loyalty card usage, and time period.
 - **Features**:
-  - Total sales over time by coffee type 
-  - Sales breakdown by country  
-  - Top 5 customers by total purchase  
-  - Interactive filters using slicers and timelines
-- [`/Coffee Sales`](./Coffee_Sales)
+  - Interactive filtering by roast type, package size, loyalty card usage, and time period 
+  - Sales trend analysis over time for each coffee type (Arabica, Excelsa, Liberica, Robusta) 
+  - Breakdown of sales by country to compare market performance  
+  - Identification of top 5 customers by total purchase value
+  - Dynamic slicers and timeline controls for quick data exploration
+  - Clean and visually consistent dashboard design
+- [View Project](./Coffee_Sales)
 
 ---
 
