@@ -20,5 +20,6 @@ Built an interactive sales dashboard in Excel to analyze coffee sales data with 
 ## Preview  
 ![Coffee Sales Dashboard](coffee-dashboard.png)
 
-## 📂 Data Source  
-Dataset from [YouTube tutorial by Mo Chen]([link](https://youtu.be/m13o5aqeCbM?si=2-QirbWe_qAoKrdp))  
+## Data Source  
+YouTube Channel – [Mo Chen](https://youtu.be/m13o5aqeCbM?si=2-QirbWe_qAoKrdp)
+
